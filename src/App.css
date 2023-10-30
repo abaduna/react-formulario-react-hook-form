@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.button{
+  background-color: rgba(0, 0, 255, 0.377);
+  color: white;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+.button:hover{
+  background-color: rgba(0, 0, 255, 0.64);
+}
+.span-error{
+  background-color: red;
+  color: white;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  padding: 2px;
+
+  font-size: 12px;
+}
